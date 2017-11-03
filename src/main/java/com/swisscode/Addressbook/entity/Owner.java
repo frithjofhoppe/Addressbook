@@ -11,7 +11,6 @@ public class Owner
     String lastName;
     String email;
     String password;
-    @M
     List<Adressbook> adressbooks;
 
     public Owner() {
